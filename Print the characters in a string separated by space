@@ -1,0 +1,9 @@
+a=input()
+b=" ".join(a)
+print(b)
+
+Sample Input :
+guvi
+
+Sample Output :
+g u v i
