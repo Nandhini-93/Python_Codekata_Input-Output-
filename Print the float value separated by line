@@ -1,0 +1,11 @@
+a = input().split()
+for i in a:
+  print(i)
+
+Sample Input :
+2.3 4.5 7.8
+
+Sample Output :
+2.3
+4.5
+7.8
