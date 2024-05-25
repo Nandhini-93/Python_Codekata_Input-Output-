@@ -1,0 +1,16 @@
+a=input()
+for i in a:
+    print(i)
+
+Sample Input :
+guvigeek
+
+Sample Output :
+g
+u
+v
+i
+g
+e
+e
+k
