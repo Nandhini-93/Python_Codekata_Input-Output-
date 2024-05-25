@@ -1,0 +1,7 @@
+a=int(input())
+print(a)
+
+Sample Input :
+2
+Sample Output :
+2
